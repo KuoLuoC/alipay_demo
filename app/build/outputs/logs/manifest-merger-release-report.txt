@@ -1,0 +1,258 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.support:support-v4:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\fa70d596078579a44b94b5f3cb3e4836\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\d0741959de0cd26688f0dc58b4a2901c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\7572648ae47e448490550ef8cdb94bf3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\774ff5121fdef1b234aeefebdea38b09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\1ea9dbbfd27debc82c85eb325b8b7d79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\7cd209194509fe7ceae4ab095c990245\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\0d0f12d676d49705d269992c7781fd47\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\293426d189dd056b959e1827cf37152a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\55a54be44a0c9cf818b7cc997b876661\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\d973bb44c2807081520bb33e4300a11d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\20b7094105a9ed885b34a70e7a6c585b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\1e2c77382ac4d6feb9e3da1bcceac5a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\46bf95a58ced5286be1056a648615809\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\6beabe216503500e81e30056d48f38b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\9e87b2bad4e1bace66c63e1ca91acea4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\e1614679de6ec0056ed30002026bc3cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\823be026ad2cb8389527d25f69dce8b9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\53ac733fee40a8f1f2e0075c6795c756\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\78707755fa10d34733ee0b6ca4a8bf20\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] E:\Cache\.gradle\caches\transforms-2\files-2.1\8eb9cf1b87c45dc3940883653e4c13c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\dbd191b6d9ed492088049f3ed3e1a433\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\ca083739bd4e7b9dc500073483ed1ef0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\0aefbee90190b5acb7c15b11f8901a86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\194c45fd8f8d35b06c37ebdcc80d0b6c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] E:\Cache\.gradle\caches\transforms-2\files-2.1\fe854411a20d1107bb5592b24ecd2808\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] E:\Cache\.gradle\caches\transforms-2\files-2.1\eebf82b88bee5ed07589ce6930b34d35\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] E:\Cache\.gradle\caches\transforms-2\files-2.1\c27c6e25767c7ed445fb2008e673f5c4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] E:\Cache\.gradle\caches\transforms-2\files-2.1\653ad3bc73810b4e10dc6425bd0553a9\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:18:5-67
+MERGED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:9:5-79
+MERGED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:19:5-79
+MERGED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:10:5-76
+MERGED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:20:5-76
+MERGED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:10:22-73
+supports-screens
+ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:13:5-18:39
+MERGED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:11:5-16:39
+MERGED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:11:5-16:39
+	android:largeScreens
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:15:9-36
+	android:smallScreens
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:18:9-36
+	android:normalScreens
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:16:9-37
+	android:resizeable
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:17:9-34
+	android:anyDensity
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:14:9-34
+application
+ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:20:5-41:19
+MERGED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:22:5-55:19
+MERGED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:22:5-55:19
+MERGED from [com.android.support:support-compat:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\823be026ad2cb8389527d25f69dce8b9\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\823be026ad2cb8389527d25f69dce8b9\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\53ac733fee40a8f1f2e0075c6795c756\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\53ac733fee40a8f1f2e0075c6795c756\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\823be026ad2cb8389527d25f69dce8b9\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:23:9-41
+	android:allowBackup
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:24:9-40
+	android:networkSecurityConfig
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:22:9-69
+activity#com.alipay.sdk.pay.demo.PayDemoActivity
+ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:25:9-34:20
+	android:label
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:28:13-45
+	android:icon
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:27:13-46
+	android:name
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:26:13-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.alipay.sdk.pay.demo.H5PayDemoActivity
+ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:35:9-40:20
+	android:screenOrientation
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:39:13-47
+	android:exported
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:37:13-74
+	android:name
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml:36:13-69
+uses-sdk
+INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml
+INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml
+MERGED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:7:5-9:41
+MERGED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\fa70d596078579a44b94b5f3cb3e4836\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\fa70d596078579a44b94b5f3cb3e4836\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\d0741959de0cd26688f0dc58b4a2901c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\d0741959de0cd26688f0dc58b4a2901c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\7572648ae47e448490550ef8cdb94bf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\7572648ae47e448490550ef8cdb94bf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\774ff5121fdef1b234aeefebdea38b09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\774ff5121fdef1b234aeefebdea38b09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\1ea9dbbfd27debc82c85eb325b8b7d79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\1ea9dbbfd27debc82c85eb325b8b7d79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\7cd209194509fe7ceae4ab095c990245\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\7cd209194509fe7ceae4ab095c990245\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\0d0f12d676d49705d269992c7781fd47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\0d0f12d676d49705d269992c7781fd47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\293426d189dd056b959e1827cf37152a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\293426d189dd056b959e1827cf37152a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\55a54be44a0c9cf818b7cc997b876661\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\55a54be44a0c9cf818b7cc997b876661\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\d973bb44c2807081520bb33e4300a11d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\d973bb44c2807081520bb33e4300a11d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\20b7094105a9ed885b34a70e7a6c585b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\20b7094105a9ed885b34a70e7a6c585b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\1e2c77382ac4d6feb9e3da1bcceac5a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\1e2c77382ac4d6feb9e3da1bcceac5a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\46bf95a58ced5286be1056a648615809\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\46bf95a58ced5286be1056a648615809\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\6beabe216503500e81e30056d48f38b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\6beabe216503500e81e30056d48f38b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\9e87b2bad4e1bace66c63e1ca91acea4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\9e87b2bad4e1bace66c63e1ca91acea4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\e1614679de6ec0056ed30002026bc3cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\e1614679de6ec0056ed30002026bc3cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\823be026ad2cb8389527d25f69dce8b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\823be026ad2cb8389527d25f69dce8b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\53ac733fee40a8f1f2e0075c6795c756\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\53ac733fee40a8f1f2e0075c6795c756\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\78707755fa10d34733ee0b6ca4a8bf20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\78707755fa10d34733ee0b6ca4a8bf20\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] E:\Cache\.gradle\caches\transforms-2\files-2.1\8eb9cf1b87c45dc3940883653e4c13c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] E:\Cache\.gradle\caches\transforms-2\files-2.1\8eb9cf1b87c45dc3940883653e4c13c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\dbd191b6d9ed492088049f3ed3e1a433\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\dbd191b6d9ed492088049f3ed3e1a433\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\ca083739bd4e7b9dc500073483ed1ef0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\ca083739bd4e7b9dc500073483ed1ef0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\0aefbee90190b5acb7c15b11f8901a86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\0aefbee90190b5acb7c15b11f8901a86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\194c45fd8f8d35b06c37ebdcc80d0b6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] E:\Cache\.gradle\caches\transforms-2\files-2.1\194c45fd8f8d35b06c37ebdcc80d0b6c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] E:\Cache\.gradle\caches\transforms-2\files-2.1\fe854411a20d1107bb5592b24ecd2808\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] E:\Cache\.gradle\caches\transforms-2\files-2.1\fe854411a20d1107bb5592b24ecd2808\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] E:\Cache\.gradle\caches\transforms-2\files-2.1\eebf82b88bee5ed07589ce6930b34d35\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] E:\Cache\.gradle\caches\transforms-2\files-2.1\eebf82b88bee5ed07589ce6930b34d35\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] E:\Cache\.gradle\caches\transforms-2\files-2.1\c27c6e25767c7ed445fb2008e673f5c4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] E:\Cache\.gradle\caches\transforms-2\files-2.1\c27c6e25767c7ed445fb2008e673f5c4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] E:\Cache\.gradle\caches\transforms-2\files-2.1\653ad3bc73810b4e10dc6425bd0553a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] E:\Cache\.gradle\caches\transforms-2\files-2.1\653ad3bc73810b4e10dc6425bd0553a9\AndroidManifest.xml:20:5-44
+INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml
+INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml
+		ADDED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WORK\android\WS_APP_PAY_SDK_BASE_15.6.8\Demo\AndroidDemo_2.0(SDK_15.6.8)\alipay_demo\app\src\main\AndroidManifest.xml
+uses-library#org.apache.http.legacy
+ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:24:13-50
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:27:9-32:20
+	android:screenOrientation
+		ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:31:13-47
+	android:exported
+		ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:30:13-37
+	android:configChanges
+		ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:29:13-74
+	android:name
+		ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:28:13-60
+activity#com.alipay.sdk.app.H5AuthActivity
+ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:33:9-38:20
+	android:screenOrientation
+		ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:37:13-47
+	android:exported
+		ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:36:13-37
+	android:configChanges
+		ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:35:13-85
+	android:name
+		ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:34:13-61
+activity#com.alipay.sdk.app.PayResultActivity
+ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:39:9-48:20
+	android:launchMode
+		ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:43:13-48
+	android:exported
+		ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:42:13-36
+	android:configChanges
+		ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:41:13-85
+	android:theme
+		ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:44:13-72
+	android:name
+		ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:40:13-64
+intent-filter#category:name:android.intent.category.DEFAULT
+ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:45:13-47:29
+category#android.intent.category.DEFAULT
+ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:46:27-73
+activity#com.alipay.sdk.app.AlipayResultActivity
+ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:49:9-54:20
+	android:launchMode
+		ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:52:13-44
+	android:exported
+		ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:51:13-36
+	android:theme
+		ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:53:13-72
+	android:name
+		ADDED from [:alipaySdk-15.6.8-20191021122514:] E:\Cache\.gradle\caches\transforms-2\files-2.1\ea2ba844772e866719c1ac3ccc1bc03c\AndroidManifest.xml:50:13-67
