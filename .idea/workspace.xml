@@ -168,6 +168,9 @@
       <find>alipay_publickey</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -181,11 +184,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="217" />
-    <option name="y" value="200" />
+    <option name="x" value="127" />
+    <option name="y" value="68" />
     <option name="width" value="1605" />
     <option name="height" value="955" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -381,7 +385,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="174" y="126" width="1284" height="764" extended-state="0" />
+    <frame x="102" y="55" width="1284" height="764" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
@@ -395,7 +399,7 @@
       <window_info id="Favorites" order="8" sideWeight="0.5021097" side_tool="true" weight="0.21782842" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="TODO" order="1" sideWeight="0.49932975" weight="0.32956153" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.5831099" visible="true" weight="0.36808845" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.5831099" visible="true" weight="0.36867088" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5033512" side_tool="true" weight="0.30551627" />
       <window_info anchor="bottom" id="Build" order="4" sideWeight="0.4966488" weight="0.042432815" />
       <window_info anchor="bottom" id="Find" order="5" sideWeight="0.49902344" weight="0.047075607" />
