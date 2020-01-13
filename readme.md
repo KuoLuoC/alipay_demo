@@ -1,3 +1,7 @@
+
+#看看博客吧
+[CSDN地址](https://blog.csdn.net/Lemon_wzq/article/details/103895501)
+
 # 支付标准sdk_demo
 
 demo现在已切换到AndroidStudio环境，第一次build如果出现
